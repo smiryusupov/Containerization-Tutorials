@@ -15,9 +15,9 @@ For detaled instructions and descriptions, check out the detailed [PDF tutorial]
 
 Take your skills to the cloud with Azure Kubernetes Service. This tutorial is your gateway to deploying and managing containerized applications on Microsoft Azure, utilizing tools like Docker, Azure CLI, and Azure Container Registry (ACR).
 
-- [Understanding AKS and Ecosystem](./Azure-Kubernetes-Service#understanding-aks-and-ecosystem)
-- [Application Deployment on AKS](./Azure-Kubernetes-Service#application-deployment-on-aks)
-- [Managing AKS Clusters](./Azure-Kubernetes-Service#managing-aks-clusters)
+- [Understanding AKS and Ecosystem](./Kubernetes#understanding-aks-and-ecosystem)
+- [Application Deployment on AKS](./Kubernetes#application-deployment-on-aks)
+- [Managing AKS Clusters](./Kubernetes#managing-aks-clusters)
 
 Get hands-on experience with our comprehensive guide, which includes sections on Persistent Volumes, CronJobs, and GitHub Actions integration.
 
