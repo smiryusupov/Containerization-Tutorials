@@ -11,7 +11,7 @@ Dive into Docker, the platform that revolutionizes application deployment by enc
 
 For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Docker-Basics/docker-tutorial.pdf).
 
-## [Azure Kubernetes Service (AKS) Tutorial](./Azure-Kubernetes-Service)
+## [Azure Kubernetes Service (AKS) Tutorial](./Kubernetes)
 
 Take your skills to the cloud with Azure Kubernetes Service. This tutorial is your gateway to deploying and managing containerized applications on Microsoft Azure, utilizing tools like Docker, Azure CLI, and Azure Container Registry (ACR).
 
