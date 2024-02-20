@@ -5,7 +5,7 @@ Explore the world of containerization with our two focused tutorials on Docker a
 ## [Docker Basics Tutorial](./Docker)
 
 <p align="left">
-  <img src="figures/docker-logo.jpg" width="200" /> 
+  <img src="./Docker/figures/docker-logo.jpg" width="200" /> 
 </p>
 
 Dive into Docker, the platform that revolutionizes application deployment by encapsulating apps into lightweight containers. Perfect for beginners, this tutorial covers the essentials of setting up Docker across various operating systems and introduces the basics of container management.
