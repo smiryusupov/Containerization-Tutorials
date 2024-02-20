@@ -1,5 +1,11 @@
 # Docker for Beginners Tutorial
 
+<p align="center">
+  <img src="figures/kubernetes-logo.png" width="200" />
+  <img src="figures/docker-logo.jpg" width="100" /> 
+  <img src="figures/github_actions-logo.png" width="180" />
+</p>
+
 ## Introduction
 
 This guide is designed to introduce to Docker, a platform that encapsulates applications into lightweight, portable containers.
