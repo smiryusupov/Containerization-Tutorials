@@ -13,7 +13,7 @@ Dive into Docker, the platform that revolutionizes application deployment by enc
 - [Setting Up Docker](./Docker#setting-up-docker)
 - [Official Installation Guide](https://docs.docker.com/get-docker/)
 
-For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Docker/Docker-tutorial.pdf).
+For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Docker/Docker_tutorial.pdf).
 
 ## [Azure Kubernetes Service (AKS) Tutorial](./Kubernetes)
 
