@@ -1,7 +1,7 @@
 # Docker for Beginners Tutorial
 
 <p align="left">
-  <img src="figures/docker-logo.jpg" width="120" /> 
+  <img src="figures/docker-logo.jpg" width="200" /> 
 </p>
 
 ## Introduction
