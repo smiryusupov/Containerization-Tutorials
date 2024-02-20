@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: azurefile-pv
+spec:
+  capacity:
+    storage: 100Gi  # Total capacity of the PV
+  accessModes:
+    - ReadWriteMany  # Matches the access mode in PVC
+  persistentVolumeReclaimPolicy: Retain  # Data is retained even after PVC is deleted
+  azureFile:
+    secretName: azure-file-secret  # Secret containing Azure storage account info
+    shareName: myfileshare  # The name of the Azure File Share
+    readOnly: false  # The volume can be mounted as read-write

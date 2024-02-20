@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app-deployment  # Name of the deployment
+spec:
+  replicas: 1  # Number of replicas to run
+  selector:
+    matchLabels:
+      app: my-app  # Label selector to identify the pods
+  template:  # Template for the pods
+    metadata:
+      labels:
+        app: my-app  # Labels assigned to the pods
+    spec:
+      nodeSelector:
+        "kubernetes.io/os": windows  # Run the pods on Windows nodes
+      containers:
+      - name: my-app
+        image: your-registry-name.azurecr.io/my-app:latest  # Container image to deploy
+        resources:
+          requests:
+            memory: "48Gi"  # Memory request for the container
+            cpu: "12"       # CPU request for the container
+        volumeMounts:
+        - name: my-volume
+          mountPath: "/data"  # Mount path for the volume inside the container
+      volumes:
+      - name: my-volume
+        persistentVolumeClaim:
+          claimName: azurefile  # PVC that the deployment will use

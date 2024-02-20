@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: azurefile
+spec:
+  accessModes:
+    - ReadWriteMany  # Can be mounted by multiple nodes
+  storageClassName: ""  # Empty to use the default StorageClass
+  resources:
+    requests:
+      storage: 100Gi  # Request 100 GB of storage
+  volumeName: azurefile-pv  # Binds to a specific PersistentVolume
