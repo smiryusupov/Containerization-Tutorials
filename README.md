@@ -18,15 +18,15 @@ For detaled instructions and descriptions, check out the detailed [PDF tutorial]
 ## [Azure Kubernetes Service (AKS) Tutorial](./Kubernetes)
 
 <p align="center">
-  <img src="figures/kubernetes-logo.png" width="200" />
-  <img src="figures/docker-logo.jpg" width="100" /> 
-  <img src="figures/github_actions-logo.png" width="180" />
+  <img src="./Kubernetes/figures/kubernetes-logo.png" width="200" />
+  <img src="./Kubernetes/figures/docker-logo.jpg" width="100" /> 
+  <img src="./Kubernetes/figures/github_actions-logo.png" width="180" />
 </p>
 
 <p align="center">
-  <img src="figures/azure-logo.png" width="200" />
-  <img src="figures/aks-logo.jpg" width="100" />
-  <img src="figures/github-logo.jpg" width="100" />
+  <img src="./Kubernetes/figures/azure-logo.png" width="200" />
+  <img src="./Kubernetes/figures/aks-logo.jpg" width="100" />
+  <img src="./Kubernetes/figures/github-logo.jpg" width="100" />
 </p>
 
 Take your skills to the cloud with Azure Kubernetes Service. This tutorial is your gateway to deploying and managing containerized applications on Microsoft Azure, utilizing tools like Docker, Azure CLI, and Azure Container Registry (ACR).
