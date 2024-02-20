@@ -2,14 +2,14 @@
 
 Explore the world of containerization with our two focused tutorials on Docker and Azure Kubernetes Service (AKS).
 
-## [Docker Basics Tutorial](./Docker-Basics)
+## [Docker Basics Tutorial](./Docker)
 
 Dive into Docker, the platform that revolutionizes application deployment by encapsulating apps into lightweight containers. Perfect for beginners, this tutorial covers the essentials of setting up Docker across various operating systems and introduces the basics of container management.
 
-- [Setting Up Docker](./Docker-Basics#setting-up-docker)
+- [Setting Up Docker](./Docker#setting-up-docker)
 - [Official Installation Guide](https://docs.docker.com/get-docker/)
 
-For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Docker-Basics/docker-tutorial.pdf).
+For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Docker/Docker-tutorial.pdf).
 
 ## [Azure Kubernetes Service (AKS) Tutorial](./Kubernetes)
 
@@ -21,5 +21,5 @@ Take your skills to the cloud with Azure Kubernetes Service. This tutorial is yo
 
 Get hands-on experience with our comprehensive guide, which includes sections on Persistent Volumes, CronJobs, and GitHub Actions integration.
 
-Start your journey into containerization and cloud orchestration now by accessing each tutorial through the links provided above.
+For detaled instructions and descriptions, check out the detailed [PDF tutorial](./Kubernetes/kubernetes.pdf).
 
