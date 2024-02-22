@@ -17,16 +17,16 @@
 Welcome to the tutorial on Azure Kubernetes Service (AKS) and its ecosystem, including Docker, Azure CLI, Azure Container Registry (ACR), and more. This guide provides insights into deploying and managing containerized applications on Microsoft Azure.
 
 ## Contents
-- [Docker and Docker Images]
-- [Azure Command Line Interface (CLI)]
-- [Azure Container Registry (ACR)]
-- [Azure Kubernetes Service (AKS)]
-- [Application Deployment]
-- [Managing AKS Clusters and Node Pools]
-- [Persistent Volumes (PV) and Persistent Volume Claims (PVC)]
-- [CronJob Configuration in Kubernetes]
-- [GitHub Actions Integration]
-- [Selecting Azure Virtual Machines and Storage]
+- Docker and Docker Images
+- Azure Command Line Interface (CLI)
+- Azure Container Registry (ACR)
+- Azure Kubernetes Service (AKS)
+- Application Deployment
+- Managing AKS Clusters and Node Pools
+- Persistent Volumes (PV) and Persistent Volume Claims (PVC)
+- CronJob Configuration in Kubernetes
+- GitHub Actions Integration
+- Selecting Azure Virtual Machines and Storage
 
 ## Sample Code Preview
 
@@ -49,4 +49,5 @@ For more detailed explanations and additional code examples, please refer to the
 
 ### Cloud Services
 
-An overview of different cloud services can be found [Virtual Machine Pricing Comparison Across Cloud Services](./Cloud virtual machines/README.md)!
+An overview of different cloud services can be found [Virtual Machine Pricing Comparison Across Cloud Services](./Cloud-virtual-machines/README.md)!
+
