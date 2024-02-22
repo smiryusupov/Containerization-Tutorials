@@ -3,25 +3,17 @@
 When deploying applications on Kubernetes, choosing the right cloud provider is crucial not only for technical compatibility and feature set but also for aligning with the project's budget and existing infrastructure. While Kubernetes offers a unified orchestration layer, the underlying infrastructure costs can vary significantly between providers. Therefore, comparing the prices of Virtual Machines (VMs) equivalent, for example, to `Standard_D16s_v3` across different cloud services is essential.
 
 
-<p align="center">
-  <img src="figures/azure.png" width="200" />
-  <figcaption> Microsoft Azure <figcaption>
-</p>
+![Microsoft Azure](figures/azure.png)
 
-<p align="center">
-  <img src="figures/aws.png" width="100" /> 
-  <figcaption> AWS <figcaption>
-</p>
 
-<p align="center">
-  <img src="figures/google_cloud.png" width="180" />
-  <figcaption> Google Cloud <figcaption>
-</p>
+![AWS](figures/aws.png)
 
-<p align="center">
-  <img src="figures/ovh.png" width="200" />
-  <figcaption> OVH <figcaption>
-</p>
+
+![Google cloud](figures/google_cloud.png)
+
+
+![OVH](figures/ovh.png)
+
 
 ## Cost Comparison
 
