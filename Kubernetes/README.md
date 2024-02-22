@@ -49,5 +49,5 @@ For more detailed explanations and additional code examples, please refer to the
 
 ### Cloud Services
 
-An overview of different cloud services can be found [Virtual Machine Pricing Comparison Across Cloud Services](./Cloud-virtual-machines/README.md)!
+An overview of different cloud services can be found [Virtual Machine Pricing Comparison Across Cloud Services](./Cloud%20virtual%20machines/README.md)!
 
